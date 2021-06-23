@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "M5TMJ9ZRGP.com.food.recipe.foodrecipe",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
